@@ -1,1 +1,1 @@
-WEBD Project 1 - HouseFinder
+House Finder and House Price Prediction
